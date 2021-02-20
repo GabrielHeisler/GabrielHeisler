@@ -3,7 +3,7 @@
 Hi, I'm Gabriel Heisler, a believer that self-study is the best way for modern students to learn new things. I really enjoy working with robotics, generative deep learning, deep reinforcement learning, and computer graphics.
 
 - 🌱 I’m currently learning Unity
-- 📫 How to reach me: gabriel.heisler@inf.ufsm.br
+- 📫 How to reach me: gvheisler@inf.ufsm.br
 - 💬 Ask me about anything [here](https://github.com/GabrielHeisler/gabrielheisler/issues)
 
 <!-- - 👯 I’m looking to collaborate on ... -->
