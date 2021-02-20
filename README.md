@@ -1,6 +1,6 @@
 ### Hi there, I'm Gabriel Heisler!
 
-Hi, I'm Victor Kich, a believer that self-study is the best way for modern students to learn new things. I really enjoy working with robotics, generative deep learning, deep reinforcement learning, and computer graphics.
+Hi, I'm Gabriel Heisler, a believer that self-study is the best way for modern students to learn new things. I really enjoy working with robotics, generative deep learning, deep reinforcement learning, and computer graphics.
 
 - 🌱 I’m currently learning Unity
 - 📫 How to reach me: gabriel.heisler@inf.ufsm.br
