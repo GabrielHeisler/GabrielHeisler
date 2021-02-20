@@ -14,6 +14,7 @@ Hi, I'm Gabriel Heisler, a believer that self-study is the best way for modern s
 **Languages and Tools:**  
 <code>
 <img height="20" src="imgs/cpp.png" alt="C++">
+<img height="20" src="imgs/c.png" alt="C">
 </code> 
 
 </br>
