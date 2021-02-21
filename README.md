@@ -1,8 +1,8 @@
 ### Hi there, I'm Gabriel Heisler!
 
-Hi, I'm Gabriel Heisler, a believer that self-study is the best way for modern students to learn new things. I really enjoy working with robotics, generative deep learning, deep reinforcement learning, and computer graphics.
+Hi, I'm Gabriel Heisler, a believer that self-study is the best way for modern students to learn new things. I am currently learning C# unity and other programming lenguages.
 
-- 🌱 I’m currently learning Unity
+- 🌱 
 - 📫 How to reach me: gvheisler@inf.ufsm.br
 - 💬 Ask me about anything [here](https://github.com/GabrielHeisler/gabrielheisler/issues)
 
